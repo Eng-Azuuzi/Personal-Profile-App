@@ -1,0 +1,5 @@
+{
+  "mongoURI": "mongodb+srv://apdiasiisipraahim:Siiso123@cluster0.il1w0lw.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+  "jwtSecretKey":"5qv9kkv5u0CrSgmxzj8TLYGsapdouzpEJQwY2aYbPLrI",
+  "githubToken":"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"
+}
